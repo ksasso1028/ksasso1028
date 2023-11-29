@@ -4,7 +4,10 @@
 
 Recently, I designed and shipped the AI declipper which just released in [Fl Studio 21.1](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip) [Manual](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip})
 
-Currently continuing ML research into audio restoration/separation, video search, and video generation. Active [warper](https://github.com/Sxela/WarpFusion) ,  may release some custom
+Currently continuing ML research into audio restoration/separation, video search, and video generation.
+Active [warper](https://github.com/Sxela/WarpFusion),  may release some custom tools associated 🤔
+Open to collaborations and commissions on ML work 
+contact -> kevin@fiarlabs.com
 
 <!--
 **ksasso1028/ksasso1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
