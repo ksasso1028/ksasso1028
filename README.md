@@ -10,10 +10,11 @@ Previous work has consisted of designing and deploying high performing deep lear
 Currently continuing ML research into audio restoration/separation, video search, video generation, and pushing the bounds of diffusion. Please feel free to reach out regarding any questions or any ML related inquiries.
 Active musician, [warper](https://github.com/Sxela/WarpFusion), and creative director.
 
-### contact -> kevin@fiarlabs.com
 
 ### Patents
 [US20210350524 - AIRPORT PAVEMENT CONDITION ASSESSMENT METHODS AND APPARATUSES](https://patentscope.wipo.int/search/en/detail.jsf?docId=US341181361&docAn=17307792)
+
+#### contact -> kevin@fiarlabs.com
 <!--
 **ksasso1028/ksasso1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
