@@ -1,5 +1,5 @@
 <p align="center">
-<font size=20 **> Welcome to my experiments 👋 </font>
+<font size=20> **Welcome to my experiments** 👋 </font>
 </p>
 
 ### Independent ML consultant working across comptuer vision, audio ML DSP, and biosignals
