@@ -8,7 +8,9 @@ Recently, I designed and shipped the AI declipper which just released in [Fl Stu
 Previous work has consisted of designing and deploying high performing deep learning pipelines in industries from defense, entertainment, and transporation.
 
 Currently continuing ML research into audio restoration/separation, video search, video generation, and pushing the bounds of diffusion. Please feel free to reach out regarding any questions or any ML related inquiries.
-Active musician, [warper](https://github.com/Sxela/WarpFusion), and creative director.
+
+
+Also a active musician, [warper](https://github.com/Sxela/WarpFusion), and creative director.
 
 
 ### Patents
