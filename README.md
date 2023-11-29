@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my experiments 👋
+
+# Independent ML consultant working across comptuer vision, audio ML DSP, and biosignals
+
+Recently, I designed and shipped the AI declipper which just released in [Fl Studio 21.1] (https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip) [Manual] (https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip}) Currently continuing ML research into audio restoration and sound separation.
 
 <!--
 **ksasso1028/ksasso1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
