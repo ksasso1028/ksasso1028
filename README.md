@@ -3,6 +3,7 @@ Welcome to my experiments 👋 </font>
 </h2>
 
 **Independent ML consultant working across comptuer vision, audio ML DSP, and biosignals**
+
 Recently, I designed and shipped the AI declipper which just released in [Fl Studio 21.1](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)  - > [credit](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)
 
 Currently continuing ML research into audio restoration/separation, video search, and video generation.
