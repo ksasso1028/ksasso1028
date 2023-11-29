@@ -6,9 +6,9 @@ Welcome to my experiments 👋 </font>
 
 Recently, I designed and shipped the AI declipper which just released in [Fl Studio 21.1](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)  - > [credit](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)
 
-Currently continuing ML research into audio restoration/separation, video search, and video generation.
+Also a active musician, [warper](https://github.com/Sxela/WarpFusion),creative director  and continuing ML research into audio restoration/separation, video search, and video generation.
 
-Also a active musician, [warper](https://github.com/Sxela/WarpFusion), and creative director.
+.
 #### contact -> kevin@fiarlabs.com
 
 ### Patents
