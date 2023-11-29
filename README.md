@@ -1,6 +1,6 @@
-<p align="center">
-<font size=20> **Welcome to my experiments** 👋 </font>
-</p>
+<h2 align="center">
+Welcome to my experiments 👋 </font>
+</h2>
 
 ### Independent ML consultant working across comptuer vision, audio ML DSP, and biosignals
 Recently, I designed and shipped the AI declipper which just released in [Fl Studio 21.1]
