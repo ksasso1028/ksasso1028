@@ -4,7 +4,7 @@ Welcome to my experiments 👋 </font>
 
 **Independent ML consultant working across computer vision, audio ML DSP, and biosignals**
 
-Recently, I designed and shipped the AI declipper which just released in [Fl Studio 21.1](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)  - > [
+Recently, I designed and shipped the AI declipper which just released in [FL Studio 21.1](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)  - > [
 credit](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)
 
 Also a active musician, [warper](https://github.com/Sxela/WarpFusion), creative director  and continuing ML research into audio restoration/separation, video search, and video generation.
