@@ -10,7 +10,7 @@ credit](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/ht
 Also a active musician, [warper](https://github.com/Sxela/WarpFusion), creative director  and continuing ML research into audio restoration/separation, video search, and video generation.
 
 open sourcing ML tooling related to computer vision/audio, along with some wacky experiments :)
-#### contact -> kevin@fiarlabs.com
+#### contact -> kevin@deepcircuits.io
 
 
 
