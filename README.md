@@ -7,7 +7,7 @@ Welcome to my experiments 👋 </font>
 Recently, I designed and shipped the AI declipper which just released in [FL Studio 21.1](https://www.image-line.com/fl-studio-news/fl-studio-211-whats-new/)  - > [
 credit](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)
 
-Also a active musician, [warper](https://github.com/Sxela/WarpFusion), creative director  and continuing ML research into audio restoration/separation, video search, and video generation.
+Also a active musician,and continuing ML research into audio restoration/generation, video generation, and classification of biosignals.
 
 #### contact -> kevin@deepcircuits.io
 
