@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome to my experiments 👋 </font>
+Welcome to my experiments 🧪 </font>
 </h1>
 
 **Independent ML consultant working across computer vision, audio ML DSP, and biosignals**
