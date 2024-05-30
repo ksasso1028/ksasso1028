@@ -1,13 +1,12 @@
 <h1 align="center">
-Welcome to my experiments 🧪 </font>
+welcome to my lair 🧪 </font>
 </h1>
 
-**Independent ML consultant working across computer vision, audio ML DSP, and biosignals**
+**Independent ML consultant... playing with knobs across computer vision, audio ML DSP, and biosignals**
 
 Recently, I designed and shipped the AI declipper which just released in [FL Studio 21.1](https://www.image-line.com/fl-studio-news/fl-studio-211-whats-new/)  - > [
 credit](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)
 
-Also a active musician,and continuing ML research into audio restoration/generation, video generation, and classification of biosignals.
 
 #### contact -> kevin@deepcircuits.io
 
