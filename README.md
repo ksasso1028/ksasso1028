@@ -4,7 +4,7 @@ welcome to my lair 🧪 </font>
 
 **Independent ML consultant... playing with knobs across computer vision, audio ML DSP, and biosignals**
 
-Recently, I designed and shipped the AI declipper which just released in [FL Studio 2024](https://www.image-line.com/blog/fl-studio-2024-is-here/)  and working with a few a other music tech startups.
+Recently, I designed and shipped the AI declipper which just released in [FL Studio 2024](https://www.image-line.com/blog/fl-studio-2024-is-here/)  and working with a few other music tech startups.
 
 
 #### contact -> kevin@deepcircuits.io
