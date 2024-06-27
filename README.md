@@ -4,7 +4,7 @@ welcome to my lair 🧪 </font>
 
 **Independent ML consultant... playing with knobs across computer vision, audio ML DSP, and biosignals**
 
-Recently, I designed and shipped the AI declipper which just released in [FL Studio 21.1](https://www.image-line.com/fl-studio-news/fl-studio-211-whats-new/)  - > [
+Recently, I designed and shipped the AI declipper which just released in [FL Studio 24](https://www.image-line.com/blog/fl-studio-2024-is-here/)  - > [
 credit](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/editortool_clean.htm#declip)
 
 
