@@ -4,7 +4,7 @@ welcome to my lair 🧪 </font>
 
 **Independent ML consultant... playing with knobs across computer vision, audio ML DSP, and biosignals**
 
-Recently, I designed and shipped the AI declipper which just released in [FL Studio 2024](https://www.image-line.com/blog/fl-studio-2024-is-here/)  and working with a few other music tech startups.
+Recently, I designed and shipped the text to audio model which powers [LoopMagic](https://www.loopmagic.com/#:~:text=LoopMagic%20was%20created%20in%20partnership%20with%20multi-Grammy-winning%20producer) which is trained on !llmind's hip hop production catalog. Also recently designed and shipped the AI declipper for FL Studio, which just released in [FL Studio 2024](https://www.image-line.com/blog/fl-studio-2024-is-here/) 
 
 
 #### contact -> kevin@deepcircuits.io
