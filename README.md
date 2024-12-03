@@ -7,7 +7,7 @@ welcome to my lair 🧪 </font>
 Recently, I designed and shipped the text to audio model powering [LoopMagic](https://www.loopmagic.com/) which is trained on !llmind's hip hop production catalog. Also recently designed and shipped the AI declipper for FL Studio, which just released in [FL Studio 2024](https://www.image-line.com/blog/fl-studio-2024-is-here/) 
 
 
-#### contact -> kevin@deepcircuits.io
+#### contact -> kevin@fiarlabs.com
 
 
 
