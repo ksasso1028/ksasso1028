@@ -1,5 +1,5 @@
 <h1 align="center">
-welcome to my lair 🧪 </font>
+hi </font>
 </h1>
 
 **Independent ML consultant... playing with knobs across computer vision, audio ML DSP, and biosignals**
