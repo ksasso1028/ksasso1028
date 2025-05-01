@@ -1,5 +1,5 @@
 <h1 align="center">
-hi </font>
+yo </font>
 </h1>
 
 **Independent ML consultant... playing with knobs across computer vision, audio ML DSP, and biosignals**
@@ -7,7 +7,7 @@ hi </font>
 Recently, I designed and shipped the text to audio model powering [LoopMagic](https://www.loopmagic.com/) which is trained on !llmind's hip hop production catalog. Also recently designed and shipped the AI declipper for FL Studio, which just released in [FL Studio 2024](https://www.image-line.com/blog/fl-studio-2024-is-here/) 
 
 
-#### contact -> kevin@fiarlabs.com
+#### contact -> kevin@sasso.ai
 
 
 
